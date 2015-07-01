@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>http://neilcrawford.io</link><generator>metalsmith-feed</generator><lastBuildDate>Wed, 01 Jul 2015 19:57:53 GMT</lastBuildDate><atom:link href="http://neilcrawford.io/rss.xml" rel="self" type="application/rss+xml"/><author><![CDATA[Neil Crawford]]></author><item><title><![CDATA[My Third Post]]></title><description><![CDATA[<!DOCTYPE html>
+<html><head>
+    <title>My Third Post</title>
+    <meta name="google-site-verification" content="9wjMsno2-moQqSbC2CHx2KIK2_-s1Cjd8Ht3WC9B9xo">
+    <link rel="stylesheet" href="/application.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.6/styles/default.min.css">
+    <script async="" type="text/javascript" src="/google-analytics.js"></script>
+  </head>
+  <body>
+    <header role="banner" class="navigation">
+      <div class="navigation-wrapper"><a href="/" class="logo"><img src="https://raw.githubusercontent.com/thoughtbot/refills/master/source/images/placeholder_logo_1.png" alt="Logo Image"></a><a href="/" id="js-mobile-menu" class="navigation-menu-button">MENU</a>
+        <nav role="navigation">
+          <ul id="js-navigation-menu" class="navigation-menu show">
+            <li class="nav-link"><a href="/about">About</a></li>
+            <li class="nav-link"><a href="/projects">Projects</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+    <article>
+      <header>
+        <h3>My Third Post</h3>
+      </header><p>My third post is a bit better</p>
+<p>Testing out a change in my third post</p>
+
+    </article>
+  
+  <footer role="contentinfo" class="footer-2">
+    <div class="footer-logo"><img src="https://raw.githubusercontent.com/thoughtbot/refills/master/source/images/placeholder_logo_1.png" alt="Logo image">
+      <ul>
+        <li><a href="/about">About</a></li>
+        <li><a href="/contact">Contact</a></li>
+      </ul>
+      <div class="footer-secondary-links">
+        <ul class="footer-social">
+          <li><a href="javascript:void(0)"></a><img src="https://raw.githubusercontent.com/thoughtbot/refills/master/source/images/youtube-logo-circle.png" alt="YouTube"></li>
+        </ul>
+      </div>
+    </div>
+  </footer>
+</body></html>]]></description><link>http://neilcrawford.io/my-third-post-2015</link><guid isPermaLink="true">http://neilcrawford.io/my-third-post-2015</guid><dc:creator><![CDATA[Neil Crawford]]></dc:creator><pubDate>Sun, 24 May 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[My Second Post]]></title><description><![CDATA[<!DOCTYPE html>
+<html><head>
+    <title>My Second Post</title>
+    <meta name="google-site-verification" content="9wjMsno2-moQqSbC2CHx2KIK2_-s1Cjd8Ht3WC9B9xo">
+    <link rel="stylesheet" href="/application.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.6/styles/default.min.css">
+    <script async="" type="text/javascript" src="/google-analytics.js"></script>
+  </head>
+  <body>
+    <header role="banner" class="navigation">
+      <div class="navigation-wrapper"><a href="/" class="logo"><img src="https://raw.githubusercontent.com/thoughtbot/refills/master/source/images/placeholder_logo_1.png" alt="Logo Image"></a><a href="/" id="js-mobile-menu" class="navigation-menu-button">MENU</a>
+        <nav role="navigation">
+          <ul id="js-navigation-menu" class="navigation-menu show">
+            <li class="nav-link"><a href="/about">About</a></li>
+            <li class="nav-link"><a href="/projects">Projects</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+    <article>
+      <header>
+        <h3>My Second Post</h3>
+      </header><p>My amazing second post</p>
+
+    </article>
+  
+  <footer role="contentinfo" class="footer-2">
+    <div class="footer-logo"><img src="https://raw.githubusercontent.com/thoughtbot/refills/master/source/images/placeholder_logo_1.png" alt="Logo image">
+      <ul>
+        <li><a href="/about">About</a></li>
+        <li><a href="/contact">Contact</a></li>
+      </ul>
+      <div class="footer-secondary-links">
+        <ul class="footer-social">
+          <li><a href="javascript:void(0)"></a><img src="https://raw.githubusercontent.com/thoughtbot/refills/master/source/images/youtube-logo-circle.png" alt="YouTube"></li>
+        </ul>
+      </div>
+    </div>
+  </footer>
+</body></html>]]></description><link>http://neilcrawford.io/my-second-post-2015</link><guid isPermaLink="true">http://neilcrawford.io/my-second-post-2015</guid><dc:creator><![CDATA[Neil Crawford]]></dc:creator><pubDate>Sun, 10 May 2015 00:00:00 GMT</pubDate></item><item><title><![CDATA[My First Post]]></title><description><![CDATA[<!DOCTYPE html>
+<html><head>
+    <title>My First Post</title>
+    <meta name="google-site-verification" content="9wjMsno2-moQqSbC2CHx2KIK2_-s1Cjd8Ht3WC9B9xo">
+    <link rel="stylesheet" href="/application.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.6/styles/default.min.css">
+    <script async="" type="text/javascript" src="/google-analytics.js"></script>
+  </head>
+  <body>
+    <header role="banner" class="navigation">
+      <div class="navigation-wrapper"><a href="/" class="logo"><img src="https://raw.githubusercontent.com/thoughtbot/refills/master/source/images/placeholder_logo_1.png" alt="Logo Image"></a><a href="/" id="js-mobile-menu" class="navigation-menu-button">MENU</a>
+        <nav role="navigation">
+          <ul id="js-navigation-menu" class="navigation-menu show">
+            <li class="nav-link"><a href="/about">About</a></li>
+            <li class="nav-link"><a href="/projects">Projects</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+    <article>
+      <header>
+        <h3>My First Post</h3>
+      </header><p>My first post is a bit rubbish</p>
+<pre><code class="lang-javascript">
+<span class="hljs-keyword">var</span> something = <span class="hljs-string">'blah'</span>;
+</code></pre>
+
+    </article>
+  
+  <footer role="contentinfo" class="footer-2">
+    <div class="footer-logo"><img src="https://raw.githubusercontent.com/thoughtbot/refills/master/source/images/placeholder_logo_1.png" alt="Logo image">
+      <ul>
+        <li><a href="/about">About</a></li>
+        <li><a href="/contact">Contact</a></li>
+      </ul>
+      <div class="footer-secondary-links">
+        <ul class="footer-social">
+          <li><a href="javascript:void(0)"></a><img src="https://raw.githubusercontent.com/thoughtbot/refills/master/source/images/youtube-logo-circle.png" alt="YouTube"></li>
+        </ul>
+      </div>
+    </div>
+  </footer>
+</body></html>]]></description><link>http://neilcrawford.io/my-first-post-2015</link><guid isPermaLink="true">http://neilcrawford.io/my-first-post-2015</guid><dc:creator><![CDATA[Neil Crawford]]></dc:creator><pubDate>Thu, 23 Apr 2015 00:00:00 GMT</pubDate></item></channel></rss>
